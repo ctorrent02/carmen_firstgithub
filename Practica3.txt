@@ -1,0 +1,16 @@
+
+user.name : ctorrent02
+user.email: ctorrentir@gmail.com
+
+To Clone the repository i did 2 different things.
+
+- Work with desktop application. (clone or download, Open in Desktop) 
+
+clones a copy in computer and use GitHUb Desktop
+
+- work with another user. On MV client
+
+make a folder to work with git:	 mkdir github01
+move into the folder: cd github01
+clone from repository: git clone git://github.com/ctorrent02/carmen_firstgithub.git
+
