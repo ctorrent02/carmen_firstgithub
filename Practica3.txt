@@ -21,5 +21,6 @@ clone from repository: git clone git://github.com/ctorrent02/carmen_firstgithub.
 	added lines from ** in this file
 	commit changes
 
-
+*** I did previous commit from gitgui and I will do this from console to show it better with a screenshot. 
+- adding lines to this file from ***
 
