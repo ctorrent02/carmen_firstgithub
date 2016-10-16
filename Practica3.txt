@@ -14,3 +14,12 @@ make a folder to work with git:	 mkdir github01
 move into the folder: cd github01
 clone from repository: git clone git://github.com/ctorrent02/carmen_firstgithub.git
 
+** I MV i created a new branch:
+- working with console. inside carmen_firstgithub.
+	git branch MVbranc2
+- working with MVbranch2
+	added lines from ** in this file
+	commit changes
+
+
+
